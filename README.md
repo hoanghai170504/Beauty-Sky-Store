@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <img alt="BeautySky Logo" src="src/assets/screenshot/SkyBeauty-removebg-preview.png" width="200">
+    <img alt="BeautySky Logo" src="/BeautySky-FE/src/assets/screenshot/SkyBeauty-removebg-preview.png" width="200">
   </picture>
 </div>
 
@@ -15,15 +15,15 @@
 
 <div align="center">
   <h3>Home Page</h3>
-  <img src="src/assets/screenshot/HomePage.png" alt="Home Page" />
+  <img src="/BeautySky-FE/src/assets/screenshot/HomePage.png" alt="Home Page" />
   <p><em></em></p>
 
   <h3>Product Interface</h3>
-  <img src="src/assets/screenshot/Product.png"/>
+  <img src="/BeautySky-FE/src/assets/screenshot/Product.png"/>
   <p><em></em></p>
 
   <h3>Dashboard</h3>
-  <img src="src/assets/screenshot/DashBoard.png" alt="Dashboard" />
+  <img src="/BeautySky-FE/src/assets/screenshot/DashBoard.png" alt="Dashboard" />
   <p><em></em></p>
 </div>
 
